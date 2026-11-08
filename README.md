@@ -42,8 +42,8 @@ The objective of this project is to build, evaluate, and deploy an end-to-end Ma
 ---
 
 ## 3. GitHub Repository Link
-- **GitHub Repository:** `https://github.com/kumaresan-murugesan/BITS-AIML-ML-Assignment-2`  
-- **Live Streamlit App:** `https://bits-aiml-assignment2-2026aj05717.streamlit.app`
+- **GitHub Repository:** `https://github.com/kumaresanmurugesan-bits/Mlassignmentbits/tree/main`  
+- **Live Streamlit App:** `https://bitsmlassignmet-kkgxnljks7wvw4w3s3jrjy.streamlit.app/`
 
 ---
 
